@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @PBentil
+- 👀 I’m interested in building impactful web applications, improving user experiences, and exploring the latest in front-end and back-end technologies.
+- 🌱 I’m currently learning advanced React, server-side development with C#, and database management.
+- 💞️ I’m looking to collaborate on web applications, especially in areas like e-commerce, content management, and data-driven platforms.
+- 📫 How to reach me: Email:paapabentil122@gmail.com and on LinkedIn Paapa(Kwesi) Bentil 
+- 😄 Pronouns: [Your Pronouns, e.g., He/Him]  
+- ⚡ Fun fact: When I'm not coding, you might find me exploring new tech gadgets or diving into photography.
